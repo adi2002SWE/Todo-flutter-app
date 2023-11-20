@@ -1,4 +1,4 @@
-# Flutter Tasks App
+## Flutter Tasks App
 
 A Flutter app that allows users to create, search and view a list of tasks.
 
